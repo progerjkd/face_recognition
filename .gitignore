@@ -1,0 +1,7 @@
+loadImages.py
+database
+images/*
+intranet_images
+output/*
+__pycache__
+.idea
