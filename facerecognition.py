@@ -6,6 +6,8 @@ import os
 import logging
 import pickle
 
+# adapted from the Deep Learning: Face Recognition course from LinkedIn Learning
+
 IMAGES_PATH = './intranet_images'  # put your reference images in here
 #IMAGES_PATH = './images'    # put your reference images in here
 CAMERA_DEVICE_ID = 0
