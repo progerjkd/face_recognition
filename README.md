@@ -1,1 +1,1 @@
-A simple face recognition system using opencv2 to perform face encodings, and calculate euclidean distances from a database of previous face encodings.
+A simple face recognition system using opencv2 and dlib to perform face encodings, and calculate Euclidean distances from a database of previously encoded faces.
