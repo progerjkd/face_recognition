@@ -2,3 +2,6 @@ A simple face recognition system using opencv2 and dlib to perform face encoding
 
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6474028364922449920?compact=1" allowfullscreen="" width="504" height="284" frameborder="0"></iframe>
+
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/yrRPLBYiiEc" frameborder="0" allowfullscreen></iframe>
